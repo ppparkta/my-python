@@ -55,3 +55,4 @@ for i in range(a):
 b = a-1
 for i in range(b):
     print(f'{" "*(1+i)}{"*"*((b-i)*2-1)}')
+
